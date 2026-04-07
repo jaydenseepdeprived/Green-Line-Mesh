@@ -34,8 +34,8 @@ If you have any ideas you want to contribute or any "deliverables" such as helpi
 
 A facilitator should come and communicate any improvements and may assign one of our members to come help.
 
-## Our Consitution
+## Our Constitution
 
-We hold the idea that democratizing the developement of Green Line Mesh is crucial for its success. This is why we have a [Consitution](./docs/CONSITUTION.md) that has well-defined "meta rules" to change the Consitution itself, rules for contributing to the project, and rules against practices that go against our core values.
+We hold the idea that democratizing the developement of Green Line Mesh is crucial for its success. This is why we have a [Constitution](./docs/CONSTITUTION.md) that has well-defined "meta rules" to change the Constitution itself, rules for contributing to the project, and rules against practices that go against our core values.
 
 We should have a "town hall" group chat (TODO: make chat and post link) people can posts any ideas or concerns and an anonymous forum (TODO: make forum) to post anything.
